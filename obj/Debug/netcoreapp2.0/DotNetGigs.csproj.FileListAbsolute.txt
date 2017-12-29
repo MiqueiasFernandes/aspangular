@@ -1,0 +1,10 @@
+C:\aspangular\DotNetGigs\obj\Debug\netcoreapp2.0\DotNetGigs.csproj.CoreCompileInputs.cache
+C:\aspangular\DotNetGigs\obj\Debug\netcoreapp2.0\DotNetGigs.AssemblyInfoInputs.cache
+C:\aspangular\DotNetGigs\obj\Debug\netcoreapp2.0\DotNetGigs.AssemblyInfo.cs
+C:\aspangular\DotNetGigs\bin\Debug\netcoreapp2.0\DotNetGigs.deps.json
+C:\aspangular\DotNetGigs\bin\Debug\netcoreapp2.0\DotNetGigs.runtimeconfig.json
+C:\aspangular\DotNetGigs\bin\Debug\netcoreapp2.0\DotNetGigs.runtimeconfig.dev.json
+C:\aspangular\DotNetGigs\bin\Debug\netcoreapp2.0\DotNetGigs.dll
+C:\aspangular\DotNetGigs\bin\Debug\netcoreapp2.0\DotNetGigs.pdb
+C:\aspangular\DotNetGigs\obj\Debug\netcoreapp2.0\DotNetGigs.dll
+C:\aspangular\DotNetGigs\obj\Debug\netcoreapp2.0\DotNetGigs.pdb
